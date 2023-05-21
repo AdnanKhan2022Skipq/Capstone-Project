@@ -1,0 +1,16 @@
+body {
+  background-color: #f7f8fc;
+  }
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+i{
+  cursor: pointer;
+}
+.form-color {
+  background-color: #e6ebf1; /* Replace with your desired color */
+}
+input{
+  height: auto;
+}
